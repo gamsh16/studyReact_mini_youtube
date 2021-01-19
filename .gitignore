@@ -11,6 +11,12 @@
 # production
 /build
 
+# API KEYs
+.env
+
+# eslint cache
+.eslintcache
+
 # misc
 .DS_Store
 .env.local
